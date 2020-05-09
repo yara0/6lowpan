@@ -4,7 +4,7 @@
 # Author: Yara Altehini
 
 #install prerequisites
-sudo ./requirements.sh > log/requirementslog.txt 2>&1
+#sudo ./requirements.sh > log/requirementslog.txt 2>&1
 
 #run the simulator
 
