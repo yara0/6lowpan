@@ -3,7 +3,7 @@
 The project is for research and education use. It is an IoT simulator based on 6LoWPAN. The simulator simulates a 6LoWPAN network that connects to an Ethernet network through an edge router. In the 6LoWPAN network, each IoT device is a Docker container (with Ubuntu image) that has 6lowpan and WPAN interfaces, except for the edge router which has, in addition to 6lowpan and WPAN interfaces, an Ethernet interface to connect to the Ethernet network. The simulator can be used as a testing environment for 6LoWPAN applications, and since each IoT device is a Docker container, it can be customized based on application needs.
 
 
-## Authors
+## Author
 
 * **Yara Altehini**
 
